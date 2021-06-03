@@ -7,8 +7,7 @@ import java.util.ArrayList;
 
 /**
  * @author Miguel Ángel Rodríguez Siachoque.
- * This the Main Class. Countline is a class that counts the lines in the file.
- * Output is a int that mean the lines in the file.
+ * 
  */
 public class Countline 
 {
@@ -16,12 +15,12 @@ public class Countline
      * This is the main method.
      * @param args is a ArrayList of Strings.
      * 
-     * args[0] is the user's option that chooses to counts the lines.
+     * @param args args[0] The user's option that chooses to counts the lines.
      * Where 'loc' counts the lines without commentaries and 'phy' counts all the lines.
      * 
-     * args[1] is the file's location whose lines the user wants to be counted.
+     * @param args args[1] The file's location whose lines the user wants to be counted.
      * 
-     * Output is a int that mean the lines in the file.
+     * 
      */
     public static void main( String[] args )
     {
@@ -33,9 +32,9 @@ public class Countline
     
     /**
      * This method read and save the lines in the ArrayList.
-     * @param option is the option of the user.
-     * @param locationFile is the file's location.
-     * @return a ArrayList String save the lines of the read file.
+     * @param option The option of the user.
+     * @param locationFile The file's location.
+     * @return ArrayList String, save the lines of the read file.
      */
     public static ArrayList<String> ReadLine (String option, String locationFile) {
         //paramLocate: location's unity of the repository.
@@ -70,11 +69,11 @@ public class Countline
     }
     
     /**
-     * This method verify if the line is a commentary or not.
-     * @param excepLine is type String, excepLine is the line of file to check.
-     * @return a boolean, if the value is True so the line not is a commentary, otherwise is a commentary.
+     * This method verify if the line is a commentary, null or not.
+     * @param excepLine String, excepLine is the line of file to check.
+     * @return boolean, if the value is True so the line not is a commentary, otherwise is a commentary.
      */
-    private static boolean ExceptionLine (String excepLine) {
+    public static boolean ExceptionLine (String excepLine) {
         boolean checkLine = false;
         //Verify that the lines not have the characters /, *.
         if (!excepLine.contains("/") && !excepLine.equals("")) {
