@@ -4,8 +4,9 @@ import junit.framework.TestCase;
 import java.util.ArrayList;
 
 /**
- * @author Miguel Ángel Rodríguez Siachoque.
  * This is a Class to make test of countline.java
+ * @author Miguel Ángel Rodríguez Siachoque.
+ * 
  */
 public class CountlineTest extends TestCase
 {

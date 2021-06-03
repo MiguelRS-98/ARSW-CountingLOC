@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
+ * This is the main class where the LOC or PHY lines of a file are counted.
  * @author Miguel Ángel Rodríguez Siachoque.
  * 
  */
