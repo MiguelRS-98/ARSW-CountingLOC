@@ -74,7 +74,7 @@ public class Countline
      * @param excepLine is type String, excepLine is the line of file to check.
      * @return a boolean, if the value is True so the line not is a commentary, otherwise is a commentary.
      */
-    public static boolean ExceptionLine (String excepLine) {
+    private static boolean ExceptionLine (String excepLine) {
         boolean checkLine = false;
         //Verify that the lines not have the characters /, *.
         if (!excepLine.contains("/") && !excepLine.equals("")) {
