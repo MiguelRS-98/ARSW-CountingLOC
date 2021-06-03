@@ -46,7 +46,7 @@ Debe ser ejecutado con dos parametros:<br>
 
 ## JavaDoc:
 <ul>
-  <li>[JavaDoc - LOC Counting]<JavaDocs/index.html>
+  <li>[JavaDoc - LOC Counting]</JavaDocs/index.html>
 </ul>
 
 ## Tiempo de Lineas LOC: 
