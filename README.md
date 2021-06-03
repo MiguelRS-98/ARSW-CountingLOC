@@ -53,7 +53,7 @@ El archvivo CountlineTest.java contiene un total de 77 lineas,
 realizados en un tiempo de aproximadamente 1 hora:<br>
 77/1 = 77 lineas/horas.
 </p>
-###Tiempo total:
+##Tiempo total:
 <p>
 161/7,5 = 21,46 lineas/horas.
 </p>
