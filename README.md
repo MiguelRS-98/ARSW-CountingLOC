@@ -44,6 +44,11 @@ Debe ser ejecutado con dos parametros:<br>
 </ul>
 <!p>
 
+## JavaDoc:
+<ul>
+  <li>[JavaDoc - LOC Counting]<JavaDocs/index.html>
+</ul>
+
 ## Tiempo de Lineas LOC: 
 <p> 
 El archvivo Countline.java contiene un total de 84 lineas, 
