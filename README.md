@@ -48,7 +48,7 @@ Debe ser ejecutado con dos parametros:<br>
 <p> 
 El archvivo Countline.java contiene un total de 84 lineas, 
 realizados en un tiempo de aproximadamente 6,5 horas:<br>
-46/6,5 = 7 lineasLOC/horas.<br>
+46/6,5 = 7 lineasLOC/horas. <br>
 El archvivo CountlineTest.java contiene un total de 77 lineas, 
 realizados en un tiempo de aproximadamente 1 hora:<br>
 62/1 = 62 lineasLOC/horas.
