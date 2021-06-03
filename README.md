@@ -25,7 +25,7 @@ Debe ser ejecutado con dos parametros:<br>
        La salida sera la cantidad de lineas según la opción.
     <!p>
   <li>ReadLine (String option, String locationFile)
-    <p>
+    > <p>
        Es el metodo encargado de leer el archivo y almacenar las lineas de este.
        <ul>
          <li>option = La opcion obtenida en main.
