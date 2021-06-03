@@ -12,7 +12,7 @@ Debe ser ejecutado con dos parametros:<br>
 </p>
 
 ## Diagrama de Clases
-![Clase Countline](Class Countline.jpg)
+![Clase Countline](ClassCountline.jpg)
 <p>
 <ul>
   <li>main( String[] args )
