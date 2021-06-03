@@ -25,7 +25,7 @@ Debe ser ejecutado con dos parametros:<br>
        La salida sera la cantidad de lineas según la opción.
     <!p>
   <li>ReadLine (String option, String locationFile)
-    <p>
+    > <p>
        Es el metodo encargado de leer el archivo y almacenar las lineas de este.
        <ul>
          <li>option = La opcion obtenida en main.
@@ -44,17 +44,17 @@ Debe ser ejecutado con dos parametros:<br>
 </ul>
 <!p>
 
-## Tiempo de Lineas: 
+## Tiempo de Lineas LOC: 
 <p> 
 El archvivo Countline.java contiene un total de 84 lineas, 
 realizados en un tiempo de aproximadamente 6,5 horas:<br>
-84/6,5 = 12,92 lineas/horas.<br>
+46/6,5 = 7 lineasLOC/horas. <br>
 El archvivo CountlineTest.java contiene un total de 77 lineas, 
 realizados en un tiempo de aproximadamente 1 hora:<br>
-77/1 = 77 lineas/horas.
+62/1 = 62 lineasLOC/horas.
 </p>
 
 ### Tiempo total:
 <p>
-161/7,5 = 21,46 lineas/horas.
+104/7,5 = 13.86 lineasLOC/horas.
 </p>
